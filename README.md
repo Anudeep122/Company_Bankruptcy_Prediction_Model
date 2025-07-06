@@ -70,11 +70,11 @@ This project aims to forecast the probability of a company going bankrupt using 
 
 The model was tested on a 20% hold-out split, using a dataset with a heavy imbalance ratio (approx. 1:33). Performance metrics:
 
-- **Accuracy**: 96%
-- **Precision**: 42%
-- **Recall**: 67%
-- **F1-Score**: 51.85%
-- **Best Threshold**: 0.50
+- **Accuracy**: 97%
+- **Precision**: 45%
+- **Recall**: 61%
+- **F1-Score**: 52.05%
+- **Best Threshold**: 0.37
 
 ---
 
